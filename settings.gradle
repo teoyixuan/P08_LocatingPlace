@@ -1,0 +1,2 @@
+rootProject.name='P08_LocatingPlace'
+include ':app'
